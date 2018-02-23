@@ -14,6 +14,11 @@ if( !predicates.node( something ) ){
   console.warn( 'something is not a DOM node!' )
 }
 
+if( predicates.element( something ) ){
+  console.log( 'something is a DOM element' )
+}
+
+// etc.
 ```
 
 Includes typescript typing with type guards:
