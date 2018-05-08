@@ -1,6 +1,6 @@
 {
   "name": "@mojule/dom-node-predicates",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "Predicate functions for testing DOM nodes",
   "main": "index.js",
   "scripts": {
